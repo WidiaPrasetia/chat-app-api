@@ -1,0 +1,29 @@
+{
+  "name": "harypras_prisma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WidiaPrasetia/chat-app-api.git"
+  },
+  "keywords": [
+    "harypras"
+  ],
+  "author": "pras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WidiaPrasetia/chat-app-api/issues"
+  },
+  "homepage": "https://github.com/WidiaPrasetia/chat-app-api#readme",
+  "dependencies": {
+    "@prisma/client": "^2.22.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "prisma": "^2.22.1"
+  }
+}
